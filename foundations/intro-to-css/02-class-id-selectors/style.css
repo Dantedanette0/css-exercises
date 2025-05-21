@@ -1,0 +1,20 @@
+p{
+    background-color: red;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+
+}
+
+p.three{
+    font-size: 26px;
+}
+
+div#two{
+    color: blue;
+    font-size: 36px;
+}
+
+div#four{
+    background-color: greenyellow;
+    font-size: 24px;
+    font-weight: bold;
+}
